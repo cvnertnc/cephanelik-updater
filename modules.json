@@ -67,19 +67,17 @@
     {
       "name": "reveny",
       "enabled": true,
-      "type": "telegram_forwarder",
-      "source": "native-root-detector",
-      "asset_filter": "",
-      "source_channel": "rootdetector",
+      "type": "github_release",
+      "source": "reveny/Android-Native-Root-Detector",
+      "asset_filter": "\\.zip$",
       "description": "Native Root Detector [Apk]"
     },
     {
       "name": "shamiko",
       "enabled": true,
-      "type": "telegram_forwarder",
-      "source": "Shamiko",
-      "asset_filter": "",
-      "source_channel": "LSPosed",
+      "type": "github_release",
+      "source": "LSPosed/LSPosed.github.io",
+      "asset_filter": "\\.zip$",
       "description": "Shamiko [Modules]"
     }
   ]
