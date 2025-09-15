@@ -1,12 +1,12 @@
 {
   "modules": [
     {
-      "name": "TrickyStore",
+      "name": "ZygiskNext",
       "enabled": true,
       "type": "github_release",
-      "source": "5ec1cff/TrickyStore",
+      "source": "Dr-TSNG/ZygiskNext",
       "asset_filter": "\\.zip$",
-	  "description": "TrickyStore"
+      "description": "Dr-TSNG/ZygiskNext"
     },
     {
       "name": "pif",
@@ -17,38 +17,6 @@
       "description": "KOWX712/PlayIntegrityFix (inject_s)"
     },
     {
-      "name": "ZygiskNext",
-      "enabled": true,
-      "type": "github_release",
-      "source": "Dr-TSNG/ZygiskNext",
-      "asset_filter": "\\.zip$",
-      "description": "Dr-TSNG/ZygiskNext"
-    },
-    {
-      "name": "taddon",
-      "enabled": true,
-      "type": "github_ci",
-      "source": "https://nightly.link/KOWX712/Tricky-Addon-Update-Target-List/workflows/build.yml/main",
-      "asset_filter": "\\.zip$",
-      "description": "KOWX712/Tricky Addon"
-    },
-    {
-      "name": "viper",
-      "enabled": true,
-      "type": "github_release",
-      "source": "WSTxda/ViPERFX_RE",
-      "asset_filter": "\\.zip$",
-      "description": "WSTxda/ViPERFX_RE"
-    },
-    {
-      "name": "bindh",
-      "enabled": true,
-      "type": "github_ci",
-      "source": "https://nightly.link/bindhosts/bindhosts/workflows/release.yml/master",
-      "asset_filter": "\\.zip$",
-      "description": "bindhosts"
-    },
-    {
       "name": "susfs",
       "enabled": true,
       "type": "github_ci",
@@ -57,69 +25,20 @@
       "description": "sidex15/susfs4ksu-module"
     },
     {
-      "name": "lsposed",
-      "enabled": true,
-      "type": "github_ci",
-      "source": "https://nightly.link/JingMatrix/LSPosed/workflows/core.yml/master",
-      "asset_filter": "\\.zip$",
-      "description": "JingMatrix/LSPosed"
-    },
-    {
-      "name": "trm",
+      "name": "TrickyStore",
       "enabled": true,
       "type": "github_release",
-      "source": "rompelhd/TermuxRootMods",
+      "source": "5ec1cff/TrickyStore",
       "asset_filter": "\\.zip$",
-      "description": "rompelhd/TermuxRootMods"
+	  "description": "TrickyStore"
     },
     {
-      "name": "ReLSPosed",
+      "name": "taddon",
       "enabled": true,
       "type": "github_ci",
-      "source": "https://nightly.link/ThePedroo/ReLSPosed/workflows/core.yml/master",
+      "source": "https://nightly.link/KOWX712/Tricky-Addon-Update-Target-List/workflows/build.yml/main",
       "asset_filter": "\\.zip$",
-      "description": "ThePedroo/ReLSPosed"
-    },
-    {
-      "name": "GPhotosUnlimited",
-      "enabled": true,
-      "type": "gitlab_release",
-      "source": "cuynu/gphotos-unlimited-zygisk",
-      "asset_filter": "\\.zip$",
-      "description": "cuynu/gphotos-unlimited-zygisk"
-    },
-    {
-      "name": "hma",
-      "enabled": true,
-      "type": "telegram_forwarder",
-      "source": "HMA*release\\.apk",
-      "asset_filter": "",
-	  "source_channel": "aerathfuns", 
-      "description": "Aerath/Hide-My-Applist"
-    },
-    {
-      "name": "rezygisk",
-      "enabled": true,
-      "type": "github_ci",
-      "source": "https://nightly.link/PerformanC/ReZygisk/workflows/trusted_ci.yml/main",
-      "asset_filter": "release\\.zip$",
-      "description": "PerformanC/ReZygisk"
-    },
-    {
-      "name": "Zygisk-Assistant",
-      "enabled": true,
-      "type": "github_release",
-      "source": "snake-4/Zygisk-Assistant",
-      "asset_filter": "release\\.zip$",
-      "description": "Zygisk-Assistant"
-    },
-    {
-      "name": "nohello",
-      "enabled": true,
-      "type": "github_release",
-      "source": "MhmRdd/NoHello",
-      "asset_filter": "release\\.zip$",
-      "description": "MhmRdd/NoHello"
+      "description": "KOWX712/Tricky Addon"
     },
     {
       "name": "yurikey",
@@ -137,6 +56,14 @@
       "asset_filter": "",
       "source_channel": "LSPosed",
       "description": "Shamiko"
+    },
+    {
+      "name": "nohello",
+      "enabled": true,
+      "type": "github_release",
+      "source": "MhmRdd/NoHello",
+      "asset_filter": "release\\.zip$",
+      "description": "MhmRdd/NoHello"
     },
     {
       "name": "reveny",
@@ -157,12 +84,13 @@
       "description": "magiskalpha"
     },
     {
-      "name": "Encore",
+      "name": "hma",
       "enabled": true,
-      "type": "github_release",
-      "source": "Rem01Gaming/encore",
-      "asset_filter": "release\\.zip$",
-      "description": "Encore Tweaks"
+      "type": "telegram_forwarder",
+      "source": "HMA*release\\.apk",
+      "asset_filter": "",
+	  "source_channel": "aerathfuns", 
+      "description": "Aerath/Hide-My-Applist"
     }
   ]
 }
