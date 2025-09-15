@@ -12,6 +12,12 @@
       "source_url": "https://github.com/Dr-TSNG/ZygiskNext/releases/tag/v1.2.9.1",
       "version_id": "2025-07-16T10:21:47Z"
     },
+    "hma": {
+      "date": "15.09.2025 09:52",
+      "file_name": "HMA-OSS-oss-96.r528.066c08c-release.zip",
+      "source_url": "https://nightly.link/frknkrc44/HMA-OSS/workflows/main.yml/master",
+      "version_id": "HMA-OSS-oss-96.r528.066c08c-release.zip"
+    },
     "nohello": {
       "date": "31.05.2025 03:10",
       "file_name": "Nohello-v0.0.7-53-4d53ecf-release.zip",
@@ -53,6 +59,11 @@
       "file_name": "Zygisk-Next-1.2.9.1-534-b8e7e21-release.zip",
       "message_id": 675,
       "version_id": "2025-07-16T10:21:47Z"
+    },
+    "hma": {
+      "file_name": "HMA-OSS-oss-96.r528.066c08c-release.zip",
+      "message_id": 681,
+      "version_id": "HMA-OSS-oss-96.r528.066c08c-release.zip"
     },
     "nohello": {
       "file_name": "Nohello-v0.0.7-53-4d53ecf-release.zip",
