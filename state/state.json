@@ -30,6 +30,18 @@
       "source_url": "https://nightly.link/KOWX712/PlayIntegrityFix/workflows/android.yml/inject_s",
       "version_id": "PlayIntegrityFix_v4.3-inject-s_169.zip"
     },
+    "reveny": {
+      "date": "14.09.2025 17:13",
+      "file_name": "native-root-detector-v7.6.1.apk",
+      "source_url": "https://github.com/reveny/Android-Native-Root-Detector/releases/tag/v7.6.1",
+      "version_id": "2025-09-14T17:13:56Z"
+    },
+    "shamiko": {
+      "date": "18.06.2025 11:37",
+      "file_name": "Shamiko-v1.2.5-414-release.zip",
+      "source_url": "https://github.com/LSPosed/LSPosed.github.io/releases/tag/shamiko-414",
+      "version_id": "2025-06-18T11:37:08Z"
+    },
     "susfs": {
       "date": "15.09.2025 09:32",
       "file_name": "release-1.5.2%2B_3d255a3.zip",
@@ -74,6 +86,16 @@
       "file_name": "PlayIntegrityFix_v4.3-inject-s_169.zip",
       "message_id": 677,
       "version_id": "PlayIntegrityFix_v4.3-inject-s_169.zip"
+    },
+    "reveny": {
+      "file_name": "native-root-detector-v7.6.1.apk",
+      "message_id": 682,
+      "version_id": "2025-09-14T17:13:56Z"
+    },
+    "shamiko": {
+      "file_name": "Shamiko-v1.2.5-414-release.zip",
+      "message_id": 683,
+      "version_id": "2025-06-18T11:37:08Z"
     },
     "susfs": {
       "file_name": "release-1.5.2%2B_3d255a3.zip",
