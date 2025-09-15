@@ -284,7 +284,7 @@ class TelethonPublisher:
                 f"✦ <b>File Name:</b> <code>{info['file_name']}</code>\n"
                 f"✦ <b>Update Date:</b> {info['date']}\n\n"
                 f"✦ <b><a href='{info['source_url']}'>Source</a></b>\n\n"
-                f"✦ <b><a href='https://github.com/MematiBas42/Cephanelik_Updater'>Build With MematiBas42/Cephanelik_Updater</a></b>\n"
+                f"✦ <b><a href='https://github.com/MematiBas42/Cephanelik_Updater'>Sent With MematiBas42/Cephanelik_Updater</a></b>\n"
             )
 
             print(f"[TELEGRAM] Uploading new file '{current_filename}'...")
