@@ -6,7 +6,7 @@
       "type": "github_release",
       "source": "Dr-TSNG/ZygiskNext",
       "asset_filter": "\\.zip$",
-      "description": "Dr-TSNG/ZygiskNext"
+      "description": "Dr-TSNG/ZygiskNext [Modules]"
     },
     {
       "name": "pif",
@@ -14,7 +14,7 @@
       "type": "github_ci",
       "source": "https://nightly.link/KOWX712/PlayIntegrityFix/workflows/android.yml/inject_s",
       "asset_filter": "\\.zip$",
-      "description": "KOWX712/PlayIntegrityFix (inject_s)"
+      "description": "KOWX712/PlayIntegrityFix (inject_s) [Modules]"
     },
     {
       "name": "susfs",
@@ -22,7 +22,7 @@
       "type": "github_ci",
       "source": "https://nightly.link/sidex15/susfs4ksu-module/workflows/build.yml/v1.5.2+_R21",
       "asset_filter": "\\.zip$",
-      "description": "sidex15/susfs4ksu-module"
+      "description": "sidex15/susfs4ksu-module [Modules]"
     },
     {
       "name": "TrickyStore",
@@ -30,7 +30,7 @@
       "type": "github_release",
       "source": "5ec1cff/TrickyStore",
       "asset_filter": "\\.zip$",
-	  "description": "TrickyStore"
+	  "description": "5ec1cff/TrickyStore [Modules]"
     },
     {
       "name": "taddon",
@@ -38,7 +38,7 @@
       "type": "github_ci",
       "source": "https://nightly.link/KOWX712/Tricky-Addon-Update-Target-List/workflows/build.yml/main",
       "asset_filter": "\\.zip$",
-      "description": "KOWX712/Tricky Addon"
+      "description": "KOWX712/Tricky-Addon [Modules]"
     },
     {
       "name": "yurikey",
@@ -46,16 +46,7 @@
       "type": "github_release",
       "source": "YurikeyDev/yurikey",
       "asset_filter": "\\.zip$",
-      "description": "YurikeyDev/yurikey"
-    },
-    {
-      "name": "shamiko",
-      "enabled": true,
-      "type": "telegram_forwarder",
-      "source": "Shamiko",
-      "asset_filter": "",
-      "source_channel": "LSPosed",
-      "description": "Shamiko"
+      "description": "YurikeyDev/yurikey [Modules]"
     },
     {
       "name": "nohello",
@@ -63,7 +54,15 @@
       "type": "github_release",
       "source": "MhmRdd/NoHello",
       "asset_filter": "release\\.zip$",
-      "description": "MhmRdd/NoHello"
+      "description": "MhmRdd/NoHello [Modules]"
+    },
+    {
+      "name": "hma",
+      "enabled": true,
+      "type": "github_ci",
+      "source": "https://nightly.link/frknkrc44/HMA-OSS/workflows/main.yml/master",
+      "asset_filter": "\\.zip$",
+      "description": "frknkrc44/HMA-OSS [Apk]"
     },
     {
       "name": "reveny",
@@ -72,24 +71,16 @@
       "source": "native-root-detector",
       "asset_filter": "",
       "source_channel": "rootdetector",
-      "description": "Native Root Detector"
+      "description": "Native Root Detector [Apk]"
     },
     {
-      "name": "magiskalpha",
+      "name": "shamiko",
       "enabled": true,
       "type": "telegram_forwarder",
-      "source": "app-release",
+      "source": "Shamiko",
       "asset_filter": "",
-      "source_channel": "magiskalpha",
-      "description": "magiskalpha"
-    },
-    {
-      "name": "hma",
-      "enabled": true,
-      "type": "github_ci",
-      "source": "https://nightly.link/frknkrc44/HMA-OSS/workflows/main.yml/master",
-      "asset_filter": "\\.zip$",
-      "description": "frknkrc44/HMA-OSS"
+      "source_channel": "LSPosed",
+      "description": "Shamiko [Modules]"
     }
   ]
 }
