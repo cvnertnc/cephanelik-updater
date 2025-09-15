@@ -1,4 +1,4 @@
-name: CVNUpdater Otomasyon
+name: CVNUpdater Automation
 on:
   schedule:
     - cron: '0 * * * *'
