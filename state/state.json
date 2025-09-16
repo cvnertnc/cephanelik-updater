@@ -49,10 +49,10 @@
       "version_id": "release-1.5.2%2B_3d255a3.zip"
     },
     "taddon": {
-      "date": "15.09.2025 10:32",
-      "file_name": "TrickyAddonModule-v4.1-589-canary.zip",
+      "date": "16.09.2025 08:24",
+      "file_name": "TrickyAddonModule-v4.1-591-canary.zip",
       "source_url": "https://nightly.link/KOWX712/Tricky-Addon-Update-Target-List/workflows/build.yml/main",
-      "version_id": "TrickyAddonModule-v4.1-589-canary.zip"
+      "version_id": "TrickyAddonModule-v4.1-591-canary.zip"
     },
     "yurikey": {
       "date": "12.09.2025 17:55",
@@ -103,9 +103,9 @@
       "version_id": "release-1.5.2%2B_3d255a3.zip"
     },
     "taddon": {
-      "file_name": "TrickyAddonModule-v4.1-589-canary.zip",
-      "message_id": 692,
-      "version_id": "TrickyAddonModule-v4.1-589-canary.zip"
+      "file_name": "TrickyAddonModule-v4.1-591-canary.zip",
+      "message_id": 699,
+      "version_id": "TrickyAddonModule-v4.1-591-canary.zip"
     },
     "yurikey": {
       "file_name": "YuriKey_v1.90.signed.zip",
