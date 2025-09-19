@@ -13,10 +13,10 @@
       "version_id": "2025-07-16T10:21:47Z"
     },
     "hma": {
-      "date": "15.09.2025 14:18",
-      "file_name": "HMA-OSS-oss-98.r530.6183b01-release.zip",
+      "date": "19.09.2025 01:19",
+      "file_name": "HMA-OSS-oss-101.r533.e694f30-release.zip",
       "source_url": "https://nightly.link/frknkrc44/HMA-OSS/workflows/main.yml/master",
-      "version_id": "HMA-OSS-oss-98.r530.6183b01-release.zip"
+      "version_id": "HMA-OSS-oss-101.r533.e694f30-release.zip"
     },
     "nohello": {
       "date": "31.05.2025 03:10",
@@ -73,9 +73,9 @@
       "version_id": "2025-07-16T10:21:47Z"
     },
     "hma": {
-      "file_name": "HMA-OSS-oss-98.r530.6183b01-release.zip",
-      "message_id": 696,
-      "version_id": "HMA-OSS-oss-98.r530.6183b01-release.zip"
+      "file_name": "HMA-OSS-oss-101.r533.e694f30-release.zip",
+      "message_id": 708,
+      "version_id": "HMA-OSS-oss-101.r533.e694f30-release.zip"
     },
     "nohello": {
       "file_name": "Nohello-v0.0.7-53-4d53ecf-release.zip",
